@@ -1,2 +1,3 @@
 # Tea_shop
-I developed this website using Html css . To see the website visit https://deepakpatidar.com/
+I developed this website using Html css . To see the website visit 
+https://imdeepakpatidar.me/
